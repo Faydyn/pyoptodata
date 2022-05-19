@@ -1,0 +1,2 @@
+# pyoptadata
+data processing and statistics with optometrical data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Faydyn/pyoptodata.git/master?urlpath=https%3A%2F%2Fgithub.com%2FFaydyn%2Fpyoptodata%2Fblob%2Fmaster%2Fnotebooks%2Foptodata.ipynb)
